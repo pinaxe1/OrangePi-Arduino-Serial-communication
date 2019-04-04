@@ -1,3 +1,4 @@
+// From: https://www.instructables.com/id/Interface-Python-and-Arduino-with-pySerial/
 void setup() {
 Serial.begin(9600); // set the baud rate
 Serial.println("Ready"); // print "Ready" once
